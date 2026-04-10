@@ -1,7 +1,8 @@
 Materi SIM kelas C :
-1. Pengantar Mata Kuliah dan Koneksi Data 
+1. Pengantar Mata Kuliah
 2. Pengenalan R-Markdown 
 3. Kustomisasi dan Deploy R-Markdown 
 4. Integrasi R-Markdown dengan Github
 5. Pengenalan R-Shiny
 6. Kustomisasi dan Deploy R-Shiny
+7. Membangun aplikasi R-shiny
