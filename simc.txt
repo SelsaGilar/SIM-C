@@ -1,0 +1,5 @@
+Materi SIM kelas C :
+1. Pengantar Mata Kuliah dan Koneksi Data 
+2. Pengenalan R-Markdown 
+3. Kustomisasi dan Deploy R-Markdown 
+4. Integrasi R-Markdown dengan 
