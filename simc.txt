@@ -3,4 +3,5 @@ Materi SIM kelas C :
 2. Pengenalan R-Markdown 
 3. Kustomisasi dan Deploy R-Markdown 
 4. Integrasi R-Markdown dengan Github
-5. Pengenalan R-Shinny
+5. Pengenalan R-Shiny
+6. Kustomisasi dan Deploy R-Shiny
